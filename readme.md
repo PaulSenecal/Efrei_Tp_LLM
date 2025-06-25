@@ -189,6 +189,10 @@ Chaque intention a sa phrase de départ spécifique pour guider la génération
 - Dataset extensible
 
 ### Contact
-[Vos informations de contact]
+- [Aymene Bousbia](aymene.bousbia@efrei.net)
+- [Benjamin Kaygisiz](benjamin.kaygisiz@efrei.net)
+- [Nolan Leboucher](nolan.leboucher@efrei.net)
+- [Laurent Chau](minh-phuoc.chau@efrei.net)
+- [Paul Senecal](paul.senecal@efrei.net)
 
 **Merci de votre attention !**
